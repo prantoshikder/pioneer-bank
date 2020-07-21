@@ -1,0 +1,69 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    outline: 0px;
+}
+
+body {
+    padding: 100px;
+}
+
+.submit_area {
+    margin: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+    padding: 50px;
+}
+
+#transaction_area {
+    display: none;
+}
+
+.deposit {
+    background-color: slateblue;
+    border-radius: 10px;
+    padding: 15px 0px 15px 25px;
+}
+
+.deposit h5 {
+    color: #ffffff;
+}
+
+.deposit h2 {
+    color: #ffffff;
+    font-size: 45px;
+}
+
+.withdraw {
+    background-color: lightsalmon;
+    border-radius: 10px;
+    padding: 15px 0px 15px 25px;
+}
+
+.withdraw h5 {
+    color: #ffffff;
+}
+
+.withdraw h2 {
+    color: #ffffff;
+    font-size: 45px;
+}
+
+.balance {
+    background-color: orange;
+    border-radius: 10px;
+    padding: 15px 0px 15px 25px;
+}
+
+.balance h5 {
+    color: #ffffff;
+}
+
+.balance h2 {
+    color: #ffffff;
+    font-size: 45px;
+}
+
+.status {
+    margin: 0px 20px;
+}
